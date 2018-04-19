@@ -44,7 +44,7 @@ Our implementation of LSH will be based on RDDs.  As in the clustering
 part of LA3, we will represent each state in the dataset as a dictionary of boolean
 values with an extra key to store the state name. We call this dictionary 'state dictionary'.
 
-### Task (identical to LA3 -- clustering)
+### Task 
 
 Write a script that:
 1. Creates an RDD in which every element is a dictionary representing a state with the following keys and values:
